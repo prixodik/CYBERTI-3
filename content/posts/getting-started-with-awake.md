@@ -7,7 +7,7 @@ author: Daniel Kelly
 date: 2019-08-03T19:59:59.000Z
 featureImage: /uploads/getting-started-hero.jpg
 ---
-Awake is a Nuxt.js template for generating a beautifully robust static site with blog. 
+!!! Awake is a Nuxt.js template for generating a beautifully robust static site with blog. 
 
 # Features
 
